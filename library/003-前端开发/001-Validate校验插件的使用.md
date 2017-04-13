@@ -6,7 +6,7 @@
        jquery-1.8.3.js(依赖jar，必须有)   
        jquery.validate.min.js（核心jar）
        messages_zh.js（中文信息提示包,如果自定义提示信息，可不要）
-访问 [jQuery Validate]("https://jqueryvalidation.org/") 官网，下载最新版的 jQuery Validate 插件。       
+访问 [jQuery Validate](https://jqueryvalidation.org/ "官网") 官网，下载最新版的 jQuery Validate 插件。       
 ###  2. Validate校验插件的引用
 ##### 　　1、将校验规则写到控件中
 >　　方便快捷，但比较局限，适用于简单的校验。
